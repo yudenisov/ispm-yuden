@@ -149,7 +149,7 @@
 
 	function resizeAndScroll() {
 		resize();
-		scroll();
+/*		scroll(); */
 	}
 
 	$( document ).ready( function() {
